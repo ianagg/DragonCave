@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: a05738a46f6080d4c853086f9e2ab873
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rocks
+    21300002: dragonattack_3
+    21300004: dragonattack_1
+    21300006: dragonattack_2
+    21300008: dragonfly_1
+    21300010: dragonfly_3
+    21300012: dragonfly_2
+    21300014: dragonSmog_1
+    21300016: dragonSmog_2
+    21300018: dragonSmog_2
+    21300020: dragonSmog_2
+    21300022: RocksDown
+    21300024: DrTiles_12
+    21300026: DrTiles_13
+    21300028: DrTiles_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Rocks
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 297
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonattack_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 738
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonattack_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 674
+        width: 75
+        height: 55
+      alignment: 9
+      pivot: {x: .469999999, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonattack_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 677
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 736
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 743
+        width: 74
+        height: 57
+      alignment: 9
+      pivot: {x: .479999989, y: .519999981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonfly_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 741
+        width: 74
+        height: 57
+      alignment: 9
+      pivot: {x: .5, y: .469999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonSmog_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 605
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonSmog_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 607
+        width: 80
+        height: 58
+      alignment: 9
+      pivot: {x: .5, y: .529999971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonSmog_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 615
+        width: 80
+        height: 58
+      alignment: 9
+      pivot: {x: .479999989, y: .50999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragonSmog_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 606
+        width: 80
+        height: 58
+      alignment: 9
+      pivot: {x: .5, y: .540000021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RocksDown
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 297
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrTiles_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 337
+        width: 153
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrTiles_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 308
+        width: 153
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrTiles_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 282
+        width: 153
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
